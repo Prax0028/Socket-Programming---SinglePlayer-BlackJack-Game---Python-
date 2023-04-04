@@ -1,6 +1,13 @@
 # Socket-Programming---SinglePlayer-BlackJack-Game---Python-
 SinglePlayer BlackJack Game using Python  to demonstrate Socket Programming.
 
+--------------------------------------------------------------------
+Steps to run:
+Save the client file in the client computer, and server file in the server. Change the Server ip address present in the code from the loopback address to the server ip address.
+command to run - python <filename>
+                 python3 <filename>
+                 
+--------------------------------------------------------------------
 Demonstrating of Socket Programming by making of a blackjack game involving a dealer (server) and a player (client), connected through a TCP connection.
 The server is responsible for handling the game logic and the client is responsible for communicating with the server and displaying the game state to the user.
 

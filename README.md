@@ -2,8 +2,9 @@
 SinglePlayer BlackJack Game using Python  to demonstrate Socket Programming.
 
 --------------------------------------------------------------------
-Steps to run:
-Save the client file in the client computer, and server file in the server. Change the Server ip address present in the code from the loopback address to the server ip address.
+Steps to run:                                                                                     
+Save the client file in the client computer, and server file in the server.                                                                   
+Change the Server ip address present in the code from the loopback address to the server ip address.                                                                                                                      
 command to run - python <filename>
                  python3 <filename>
                  

@@ -21,9 +21,9 @@ The code includes while loops to deal with starting a new game, different rounds
 
 ----------------------------------------------------------------------
 
-PES University - 4th Sem Computer Networks Project
-Made By - 
-Pragnya Vempati
-Pratham Prabal R
-Ranjitha S K
+PES University - 4th Sem Computer Networks Project                        
+Made By -                            
+Pragnya Vempati                      
+Pratham Prabal R                     
+Ranjitha S K                  
 

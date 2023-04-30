@@ -19,3 +19,11 @@ The client side code, deals with printing the necessary instructions to the play
 This encoding is necessary to send string information through variables.
 The code includes while loops to deal with starting a new game, different rounds in a game, and the outermost one in the server-side code deals with keeping the server forever active.
 
+----------------------------------------------------------------------
+
+PES University - 4th Sem Computer Networks Project
+Made By - 
+Pragnya Vempati
+Pratham Prabal R
+Ranjitha S K
+
